@@ -1,3 +1,5 @@
+# Exercício de conversão de temperatura de Fahrenheit para Celsius
+
 temperatura_F=float(input("Insira aqui a temperatura em Fahrenheit : ")) #Saber temperatura em fahrenheit 
 
 temperatura_C= (5 * temperatura_F- 160) / 9 #fórmula para conversão
