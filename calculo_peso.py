@@ -1,3 +1,5 @@
+## INÍCIO DO ENUNCIADO ##
+
 # Exercício para calculo de peso
 
 # Escreva um programa que leia a altura e o sexo de uma pessoa (M ou F) e
@@ -7,6 +9,7 @@
 
 # Mulheres: (62.1 * altura) – 44.7
 
+## FIM DO ENUNCIADO ##
 
 print ("Descubra o seu peso ideal")
 
